@@ -32,7 +32,7 @@ export default function Users() {
     <Table striped>
       <thead>
         <tr>
-          <th>#</th>
+          <th>Id</th>
           <th>Name</th>
           <th>Email</th>
           <th>Username</th>
